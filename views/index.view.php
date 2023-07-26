@@ -5,9 +5,7 @@
 
   <div class="author">
 
-    <div class="wobble">
-
-    </div>
+    <div class="wobble"></div>
     <div class="author__info">
       <h1 class="author__name">Animashaun F.M</h1>
       <p class="author__bio">I am a registered Mechanical Engineer and an experiened facilities manager transitioning to
