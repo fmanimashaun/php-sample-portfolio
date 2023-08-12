@@ -1,7 +1,7 @@
 <?php require('partials/head.php'); ?>
 <?php require('partials/sidebar.php'); ?>
 
-<main class='container'>
+<main class='container container__home'>
 
   <div class="author">
 
